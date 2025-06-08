@@ -6,7 +6,7 @@
 
 I'm currently studying Management Information Systems at the University of Houston. I have product design experience creating mockup web and mobile applications on Figma. While I don't have the most technical background yet, I enjoy learning new skills. Currently, I am interning at Halliburton, where I am learning C# and Python, as well as API connections. 
 
-A little about me:
+### A little about me:
 * 🌍  I'm based in Houston, TX
 * 🔭  I have design experience using Figma
 * 🧠  I'm learning HTML, CSS, JS, Java, Python, C#
