@@ -26,8 +26,6 @@ I'm currently studying Management Information Systems at the University of Houst
 <p align="left"> <a href="https://www.github.com/BradenAbramowitz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bradenabramowitz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-<img src="https://github.com/user-attachments/assets/51675374-e8b6-458a-8a45-ac5cb8851032" width="100%">
-
 <!--
 **BradenAbramowitz/BradenAbramowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +36,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...!
+
 ![Cat Festival Sticker by W W](https://github.com/user-attachments/assets/51675374-e8b6-458a-8a45-ac5cb8851032)
 ![](https://github.com/user-attachments/assets/f8574033-a704-4028-8d2c-7de9a2243bbf)
 
@@ -45,5 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://github.com/user-attachments/assets/51675374-e8b6-458a-8a45-ac5cb8851032" width="100%">
 <img src="![](https://github.com/user-attachments/assets/f8574033-a704-4028-8d2c-7de9a2243bbf)" width="100%">
 -->
