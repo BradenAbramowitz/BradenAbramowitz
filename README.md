@@ -29,15 +29,17 @@ I'm currently studying Management Information Systems at the University of Houst
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-
 <br /> 
 
-<!--
+
 <div align = "left" >
 <img src="![Braden's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenAbramowitz&theme=dark&show_icons=true)"/>
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradenAbramowitz&layout=compact&theme=vision-friendly-dark)](https://github.com/BradenAbramowitz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BradenAbramowitz&layout=compact&theme=gruvbox)](https://github.com/BradenAbramowitz/github-readme-stats)
+
+<!--
+![Braden's GitHub stats](https://github-readme-stats.vercel.app/api?username=BradenAbramowitz&show_icons=true)
 -->
 
 ##
