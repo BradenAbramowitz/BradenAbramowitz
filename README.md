@@ -14,6 +14,14 @@ I'm currently studying Management Information Systems at the University of Houst
 * 🌱  I like going on hikes and traveling
 
 ##
+### Experience
+* <a href="https://www.bmc.com" target="_blank" rel="noreferrer"> <img alt="HTML" width="25px" align="left" style="padding-right:10px;" src="https://cdn.brandfetch.io/idx6Qi_RXL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="BMC Logo" /> </a> BMC Software | IT Assurance & Audit Intern (Fall 2025 - Spring 2026)
+* <a href="https://www.misso.org" target="_blank" rel="noreferrer"> <img alt="HTML" width="25px" align="left" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a707868f-2dfd-4162-ae21-2d1770df1f7e" alt="MISSO Logo" /> </a> MISSO UH | Corporate Relations Offcier (Spring 2025)
+* <a href="https://www.halliburton.com" target="_blank" rel="noreferrer"> <img alt="HTML" width="25px" align="left" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a778994d-f148-43cd-b809-99aa10a76ed5" alt="Halliburton Logo" /> </a> Halliburton | IT Intern (Summer 2025)
+* <a href="https://www.misso.org" target="_blank" rel="noreferrer"> <img alt="HTML" width="25px" align="left" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a707868f-2dfd-4162-ae21-2d1770df1f7e" alt="MISSO Logo" /> <a/> MISSO UH | Fundraising Offcier (Spring 2025)
+
+
+##
 ### Tech Stack
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
